@@ -18,5 +18,4 @@ CMake segítségével lebuildelhető és futtatható terminálban.
 
 ## Az előre beállított és szimulált áramkör.
 
-![](https://imgur.com/a/cob6LcS)
-
+<img src="https://imgur.com/a/cob6LcS" alt="" style="height: 100px; width:100px;"/>
