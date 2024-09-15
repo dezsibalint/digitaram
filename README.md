@@ -16,8 +16,8 @@ CMake segítségével lebuildelhető és futtatható terminálban.
 4. Majd futtassuk az aramkor executablet. (`./aramkor`)
 
 
-## Az előre beállított és szimulált áramkör.
+## Az előre beállított és szimulált kombinációs hálózat.
 
-![A szimulált áramkör](https://ibb.co/BPjr5Y6)
+![A szimulált kombinációs hálózat képe]([https://ibb.co/BPjr5Y6](https://i.ibb.co/YW8yFVd/aramkorkep.png))
 
 
