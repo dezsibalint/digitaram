@@ -18,6 +18,6 @@ CMake segítségével lebuildelhető és futtatható terminálban.
 
 ## Az előre beállított és szimulált kombinációs hálózat.
 
-![A szimulált kombinációs hálózat képe]([https://ibb.co/BPjr5Y6](https://i.ibb.co/YW8yFVd/aramkorkep.png))
+![A szimulált kombinációs hálózat képe](https://i.ibb.co/YW8yFVd/aramkorkep.png)
 
 
