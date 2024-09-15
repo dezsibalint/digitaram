@@ -18,4 +18,4 @@ CMake segítségével lebuildelhető és futtatható terminálban.
 
 ## Az előre beállított és szimulált áramkör.
 
-<img src="https://imgur.com/a/cob6LcS" alt="" style="height: 100px; width:100px;"/>
+![A szimulált áramkör]([http://url/to/img.png](https://ibb.co/BPjr5Y6))
